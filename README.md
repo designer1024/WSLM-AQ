@@ -3,7 +3,7 @@ This repository contains the pytorch codes and trained models described in the f
 
 Title: From image-level to pixel-level labeling: A weakly-supervised learning method for identifying aquaculture ponds using iterative anti-adversarial attacks guided by aquaculture features
 
-Authors: [Boyi Li](https://www.researchgate.net/profile/Boyi_Li7), Adu Gong *, Jiaming Zhang, and Zexin Fu.
+Authors: [Boyi Li](https://www.researchgate.net/profile/Boyi_Li7), Adu Gong*, Jiaming Zhang, and Zexin Fu.
 
 Paper link: [https://doi.org/10.1016/j.jag.2024.104023](https://doi.org/10.1016/j.jag.2024.104023)
 
